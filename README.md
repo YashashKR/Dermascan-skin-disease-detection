@@ -1,8 +1,5 @@
 # 🌿 DermaScan – Skin Disease Detection
 
-![DermaScan](https://img.shields.io/badge/Skin-Disease%20Detection-success?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-blue)
-
 
 
 ---
